@@ -1,0 +1,6 @@
+[submodule "calculo-numerico-newton-raphson"]
+	path = calculo-numerico-newton-raphson
+	url = https://github.com/christianfds/calculo-numerico-newton-raphson.git
+[submodule "calculo-numerico-ponto-fixo"]
+	path = calculo-numerico-ponto-fixo
+	url = https://github.com/christianfds/calculo-numerico-ponto-fixo.git
